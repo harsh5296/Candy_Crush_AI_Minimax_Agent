@@ -10,3 +10,5 @@ selected cell through horizontal and vertical paths.
 For each selection or move the agent is rewarded a numeric value which is the square of the number of fruits claimed in that move.
 Once an agent picks the fruits from the cells, their empty place will be filled with other fruits on top of them (which fall down due to gravity), 
 if any. In this game, no fruit is added during game play. Hence, players play until all fruits have been claimed.
+
+You can have a look on Homework_2.pdf for more detailed explanation and examples.
